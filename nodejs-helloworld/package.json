@@ -1,3 +1,4 @@
+{
   "name": "nodejs-helloworld",
   "version": "1.0.0",
   "description": "Hello World!",
@@ -7,4 +8,4 @@
   "dependencies": {
     "express":"4.14.x"
   }
- }
+}
